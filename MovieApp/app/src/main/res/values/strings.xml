@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movie_details_format">
+        Year: %1$s\n
+        Rated: %2$s\n
+        Released: %3$s\n
+        Runtime: %4$s\n
+        Genre: %5$s\n
+        Director: %6$s\n
+        Actors: %7$s\n
+        Rating: %8$s\n
+        Studio: %9$s
+    </string>
+    <string name="movie_plot">Plot: %1$s</string>
+    <string name="back">Back</string>
+    <string name="image">Image</string>
+    <string name="movie_poster">Movie Poster</string>
+</resources>
